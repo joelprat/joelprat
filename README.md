@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my Github!
 
-<!--
-**joelprat/joelprat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joel, a junior software engineer based in Barcelona.
 
-Here are some ideas to get you started:
+#About me
+* I have studied Computer Science degree at [UAB](https://www.uab.cat/web/estudiar/llistat-de-graus/informacio-general/enginyeria-informatica-1216708251447.html?param1=1263367146646)
+* Currently working at [SIGMA AIE](https://www.sigmaaie.org) as a software developer
+* I enjoy so much web development, that's why I keep learning and developing new skills about it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#Contact
+
+You can find all my socials in my [porfolio](https://www.joelprat.com)
+
